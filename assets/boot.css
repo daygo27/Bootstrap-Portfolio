@@ -183,3 +183,25 @@ p {
     background: #666;
     border-top: 8px solid #4aaaa5;
 }
+@media all and (max-width: 640px)  {
+
+ul{
+
+        max-width: 100%;
+        float: left;
+        margin-top: 25px;
+        padding: 0 0 0px;
+        line-height: 50px;
+        position: relative;
+        display: inline-block;
+    
+    
+
+    }
+    #logo{
+
+        width: 100%;
+        max-width: 100%;
+    }
+
+}
